@@ -58,7 +58,7 @@
     "husky": "^3.0.2",
     "nyc": "^14.1.1",
     "rimraf": "^2.6.3",
-    "semantic-release": "^15.13.19"
+    "semantic-release": "^17.0.4"
   },
   "dependencies": {
     "core-js": "^3.1.4"
